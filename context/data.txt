@@ -1,0 +1,9 @@
+Hilbert’s program was an ambitious and wide-ranging project in the
+philosophy and foundations of mathematics. In order to “dispose of the
+foundational questions in mathematics once and for all,” Hilbert proposed
+a two-pronged approach in 1921: first, classical mathematics should be
+formalized in axiomatic systems; second, using only restricted, “finitary”
+means, one should give proofs of the consistency of these axiomatic systems. Although G¨odel’s incompleteness theorems show that the program
+as originally conceived cannot be carried out, it had many partial successes, and generated important advances in logical theory and metatheory, both at the time and since. The article discusses the historical
+background and development of Hilbert’s program, its philosophical underpinnings and consequences, and its subsequent development and influences since the 1930s.
+Keywords: Hilbert’s program, philosophy of mathematics, formalism, finitism, proof theory, meta-mathematics, foundations of mathematics, consistency proofs, axiomatic method, instrumentalism.
